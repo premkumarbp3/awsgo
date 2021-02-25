@@ -1,0 +1,2 @@
+# awsgo
+aws go project
